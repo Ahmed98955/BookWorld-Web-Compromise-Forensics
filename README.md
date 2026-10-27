@@ -6,6 +6,8 @@
 
 ## 📌 Incident Overview
 This repository documents a forensic network investigation into a web server compromise at **BookWorld**, an online bookstore. The investigation was initiated following an anomalous spike in database queries and server resource utilization. Utilizing **Wireshark** for packet analysis, this writeup dissects the end-to-end attack lifecycle—from initial web application reconnaissance and SQL injection exploitation to administrative credential compromise and malicious webshell deployment.
+<img width="1376" height="768" alt="Gemini_Generated_Image_5zzzb05zzzb05zzz" src="https://github.com/user-attachments/assets/c65816fd-9c15-420d-bdaf-b24be101c612" />
+
 ---
 
 ## 1. Executive Summary
